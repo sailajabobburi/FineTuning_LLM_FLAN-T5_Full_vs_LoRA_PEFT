@@ -1,0 +1,12 @@
+.idea
+# Ignore Python virtual environment
+venv/
+__pycache__/
+
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore dataset or large logs
+*.csv
+*.log
